@@ -1,5 +1,5 @@
 # docker-emulator-android
-docker-emulator-android is one of the components of [android-farm](https://github.com/agoda-com/android-farm). It runs android emulator with hardware acceleration in a container.
+docker-emulator-android is one of the components of [android-farm](https://github.com/dhrumeshgandhi/android-farm). It runs android emulator with hardware acceleration in a container.
 
 # Features
 - Compatible with [OpenSTF](https://openstf.io)
